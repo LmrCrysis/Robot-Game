@@ -1,8 +1,4 @@
 # Unreal Engine
-Binaries/
-DerivedDataCache/
-Intermediate/
-Saved/
 .vscode/
 .vs/
 *.VC.db
