@@ -1,0 +1,28 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Build
+Build/
+!Build/*/
+Build/*/**
+!Build/*/PakBlacklist*.txt
+
+# Godot (if in same repo)
+.godot/
+.import/
+export.cfg
+export_presets.cfg
+*.translation
