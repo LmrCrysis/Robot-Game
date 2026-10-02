@@ -22,3 +22,42 @@ Build/*/**
 export.cfg
 export_presets.cfg
 *.translation
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.suo
+.vs/
+Thumbs.db
+.DS_Store
+
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.suo
+.vs/
+Thumbs.db
+.DS_Store
+
+# Third-party extracted project at root
+SciFiSpaceStationInterior/
+
+# Third-party asset packs (licensed, not redistributed - listed in README)
+Content/OldWest/
+Content/Fab/
+Content/Sci_fi_hallway/
+Content/MsvFx_Niagara_Explosion_Pack_01/
+Content/Characters/
+Content/RBots/
+Content/_SplineVFX/
+Content/FreeGameSoundsVol1/
+Content/TorchFire/
+Content/BlipCharacter/
+
+# Third-party plugins
+Plugins/Marketplace/
