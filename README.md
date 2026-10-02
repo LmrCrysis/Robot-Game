@@ -10,6 +10,15 @@ collect useful items, and repair a teleportation device.
 
 The project includes a sci-fi interior and a desert canyon environment.
 
+Nice — the push went through. Quick verification first, then the finishing touches I promised.
+
+## Screenshots
+
+| Sci-Fi Interior | Desert Canyon | Teleporter |
+|---|---|---|
+| ![Interior](Screenshots/interior.png) | ![Canyon](Screenshots/canyon.png) | ![Teleporter](Screenshots/teleporter.png) |
+
+
 ## How to Run
 
 1. Install [Git LFS](https://git-lfs.com) and clone the repository:
