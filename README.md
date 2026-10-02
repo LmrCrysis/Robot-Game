@@ -10,6 +10,13 @@ collect useful items, and repair a teleportation device.
 
 The project includes a sci-fi interior and a desert canyon environment.
 
+## How to Run
+
+1. Install [Git LFS](https://git-lfs.com) and clone the repository:
+   git clone https://github.com/LmrCrysis/Robot-Game.git
+2. Download the required asset packs (see below) and place them in the Content/ folder.
+3. Open RobotGame.uproject with Unreal Engine 5.x.
+
 ## Gameplay Features
 
 - Third-person player movement, camera controls, and jumping.
@@ -21,6 +28,27 @@ The project includes a sci-fi interior and a desert canyon environment.
   - NeedAntena
   - ReadyToTeleport
 - Camera fading during level transitions.
+
+## Required Asset Packs
+
+This project uses third-party assets from Fab / the Unreal Marketplace.
+Their licenses do not allow redistribution, so they are not included in
+this repository. To run the project, download these packs and copy them
+into Content/:
+
+| Pack | Used For |
+|---|---|
+| OldWest | Desert canyon environment |
+| Sci_fi_hallway | Sci-fi interior |
+| RBots | Robot character |
+| MsvFx Niagara Explosion Pack 01 | Explosion effects |
+| FreeGameSoundsVol1 | Sound effects |
+| TorchFire | Fire hazard visuals |
+| Characters | Character models |
+| BlipCharacter | Character |
+| _SplineVFX | VFX |
+
+(Replace the pack names with exact Fab listing names/links where possible.)
 
 ## Technical Implementation
 
