@@ -10,7 +10,6 @@ collect useful items, and repair a teleportation device.
 
 The project includes a sci-fi interior and a desert canyon environment.
 
-Nice — the push went through. Quick verification first, then the finishing touches I promised.
 
 ## Screenshots
 
